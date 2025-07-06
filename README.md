@@ -574,11 +574,11 @@
     <div class="container">
         <!-- Header -->
         <div class="header">
-            <h1><i class="fas fa-exchange-alt"></i> منصة تحويل العملات الرقمية</h1>
+            <h1><i class="fas fa-exchange-alt"></i>بيع وشراء usdt</h1>
             <p>تحويل آمن وسريع لعملة USDT</p>
             <div class="exchange-rate">
                 <i class="fas fa-dollar-sign"></i>
-                سعر الصرف: 1 USD = 12000 ل.س
+                سعر الصرف: 1 USD = 10000 ل.س
             </div>
         </div>
 
