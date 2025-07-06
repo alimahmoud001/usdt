@@ -20,7 +20,7 @@
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 480px;
             margin: 0 auto;
             padding: 20px;
         }
@@ -525,7 +525,7 @@
             to { opacity: 1; transform: translateY(0); }
         }
 
-        @media (max-width: 480px) {
+        @media (max-width: 768px) {
             .container {
                 padding: 15px;
             }
