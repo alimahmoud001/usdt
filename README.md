@@ -525,7 +525,7 @@
             to { opacity: 1; transform: translateY(0); }
         }
 
-        @media (max-width: 768px) {
+        @media (max-width: 480px) {
             .container {
                 padding: 15px;
             }
