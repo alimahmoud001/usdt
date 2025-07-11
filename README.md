@@ -578,7 +578,7 @@
             <p>تحويل آمن وسريع لعملة USDT</p>
             <div class="exchange-rate">
                 <i class="fas fa-dollar-sign"></i>
-                سعر الصرف: 1 USD = 10000 ل.س
+                $
             </div>
         </div>
 
