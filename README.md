@@ -527,7 +527,7 @@
 
         @media (max-width: 768px) {
             .container {
-                padding: 15px;
+                padding: 5px;
             }
 
             .header h1 {
