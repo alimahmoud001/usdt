@@ -535,7 +535,7 @@
             }
 
             .main-card {
-                padding: 25px;
+                padding: 12px;
             }
 
             .transaction-types {
