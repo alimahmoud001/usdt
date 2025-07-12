@@ -578,7 +578,7 @@
             <p>تحويل آمن وسريع لعملة USDT</p>
             <div class="exchange-rate">
                 <i class="fas fa-dollar-sign"></i>
-                $
+                حسب سعر صرف المركزي
             </div>
         </div>
 
