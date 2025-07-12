@@ -890,7 +890,7 @@
         };
 
         // Constants
-        const EXCHANGE_RATE = 13000;
+        const EXCHANGE_RATE = 10100;
         const NETWORK_FEES = {
             trc20: 2,
             bep20: 0.15,
